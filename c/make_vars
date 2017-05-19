@@ -1,0 +1,5 @@
+BUILD_DIR = bin
+
+CC = gcc
+CFLAGS = -Wall -Wextra -Wshadow -pedantic-errors -std=c11 -g
+
