@@ -5,4 +5,5 @@ include $(ROOT_DIR)/make_vars
 .PHONY: tmp
 tmp:
 	cd 1; make
+	cd 2; make
 
